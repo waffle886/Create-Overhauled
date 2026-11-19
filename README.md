@@ -1,8 +1,49 @@
-# A simple create modpack that gives all the experience of create without being a large kitchen sink
-## Client: https://modrinth.com/modpack/survivalcreate/
-## Server: https://github.com/waffle886/Survival-create-server/Server/survival-create-server.zip
-## Mods:
+# Create: overhauled
+> _"A simple create modpack that gives all the experience of create without being a large kitchen sink, a place to explore the wonder full place of create and let your imagination set free" - waffle886(Me the owner my self)_
+## Client: 
+https://modrinth.com/modpack/survivalcreate/
+## Server: 
+https://media.githubusercontent.com/media/waffle886/Create-Overhauled/refs/heads/1.0.0/Server/Create-overhalued-server.zip
+### For who?
+Any one who wants to play a create modpack without wasting storrage for a giant kitchen sink
+### Features:
+Muliple create essential mods like: Create: The Factory Must Grow, Create Aeronautics, 
+and so much more
+
+A modpack experience with minimaps, Jade, and world maps
+
+## Versions
+This modpack currently on support Neoforge 1.21.1
+
+Maybe in the future there will be one for Neoforge 26.1
+## Q&A
+Q: Does it support multiplayer?
+  
+A: Yes it has a fully ready version for the best experience and barley any crashes. To host it 1. Download the [zip](https://github.com/waffle886/Create-Overhauled/Server/Create-overhalued-server.zip)
+
+2. Extract it in a folder you want
+3. Do ./run.bat on windows or ./run.sh on linux
+4. Now to connect you will need to use Port forwarding or a service like playit.gg
+
+
+Q:How much ram does it need
+
+A: Around 8G is enough but don't give it too much or too less else it will crash(Maybe even the computer)
+
+Q: HELP/BUGS
+
+A: Bugs report here please https://github.com/waffle886/Create-Overhauled/issues for help 
+join the discord server and create a ticket please
+
+
+
+
+<details>
+<summary>Mods</summary>
+
 - [Advanced Chimneys](https://modrinth.com/mod/r2rWUhnP)
+- [AlmostUnified](https://modrinth.com/mod/sdaSaQEz)
+- [AlmostUnifiedDrops](https://modrinth.com/mod/Rik5mWU3)
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV)
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ)
 - [Azimuth](https://modrinth.com/mod/RpH8tmT1)
@@ -80,12 +121,10 @@
 - [Drive By Wire](https://modrinth.com/mod/KsqvI0hD)
 - [EMI](https://modrinth.com/mod/fRiHVvU7)
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB)
-- [EpheroLib](https://www.curseforge.com/projects/885449)
 - [Farmer's Delight](https://modrinth.com/mod/R2OftAxM)
 - [Ferrite Core](https://modrinth.com/mod/uXXizFIs)
 - [Fluidic Tanks](https://modrinth.com/mod/yAyrQXJ6)
 - [ForgeEndertech](https://modrinth.com/mod/EgS8gGp8)
-- [Forgematica](https://modrinth.com/mod/dCKRaeBC)
 - [Forgified Fabric API](https://modrinth.com/mod/Aqlf1Shp)
 - [Fragmentum](https://modrinth.com/mod/49C5QgTK)
 - [Freecam](https://modrinth.com/mod/XeEZ3fK2)
@@ -113,7 +152,6 @@
 - [Nature's Compass](https://modrinth.com/mod/fPetb5Kh)
 - [NetherPortalFix](https://modrinth.com/mod/nPZr02ET)
 - [Northstar Redux](https://modrinth.com/mod/UZiq3QVW)
-- [Occultism](https://modrinth.com/mod/sbJh4AZw)
 - [Patchouli](https://modrinth.com/mod/nU0bVIaL)
 - [Player Animator](https://modrinth.com/mod/gedNE4y2)
 - [RangedWeaponAPI](https://modrinth.com/mod/AqaIIO6D)
@@ -149,4 +187,7 @@
 - [Xaero's World Map](https://modrinth.com/mod/NcUtCpym)
 - [aero\_copycats](https://modrinth.com/mod/wjpmYU1u)
 - [create: things and misc](https://modrinth.com/mod/uWrs8XlB)
-  Have fun with this modpack:)
+
+
+</details>
+Have fun with this modpack:)
