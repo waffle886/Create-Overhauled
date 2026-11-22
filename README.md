@@ -1,7 +1,7 @@
 # Create: overhauled
 > _"A simple create modpack that gives all the experience of create without being a large kitchen sink, a place to explore the wonder full place of create and let your imagination set free" - waffle886(Me the owner my self)_
 ## Client: 
-https://modrinth.com/modpack/survivalcreate/
+https://modrinth.com/modpack/ycxRc7fy/
 ## Server: 
 https://media.githubusercontent.com/media/waffle886/Create-Overhauled/refs/heads/1.0.0/Server/Create-overhalued-server.zip
 ### For who?
